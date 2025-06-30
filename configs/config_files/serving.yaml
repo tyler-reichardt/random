@@ -1,5 +1,0 @@
-catalog_prefix: mlstore
-schema: third_party_capture
-ttr_model_name: time_to_repair_lgbm
-model_name: third_party_capture_lgbm
-cpu_size: Small
