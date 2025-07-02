@@ -1,0 +1,11 @@
+databricks_runtime: '15.4'
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.13.1
+model_size_bytes: 766034
+model_uuid: 2bf17da9bbaf4d1e852ccd136398749b
+utc_time_created: '2025-07-01 09:11:41.508441'

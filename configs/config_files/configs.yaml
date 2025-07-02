@@ -1,0 +1,7 @@
+workspaces:
+  'adb-6646029803360125.5.azuredatabricks.net': prod_dsexp_
+  'adb-7739692825668627.7.azuredatabricks.net': prod_modelbuild_
+  'adb-46486507102030.10.azuredatabricks.net': prod_modelpromotion_
+  'adb-1657058261328338.18.azuredatabricks.net': prod_modeldeployment_
+
+catalog_prefix: mlstore
